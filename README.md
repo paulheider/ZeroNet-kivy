@@ -1,5 +1,5 @@
 # ZeroNet-kivy
-[![Build Status](https://travis-ci.org/HelloZeroNet/ZeroNet-kivy.svg?branch=master)](https://travis-ci.org/HelloZeroNet/ZeroNet-kivy)
+[![Build Status](https://travis-ci.org/paulheider/ZeroNet-kivy.svg?branch=master)](https://travis-ci.org/paulheider/ZeroNet-kivy)
 [简体中文](./README-zh-cn.md)
 
 The GUI control panel and APP packaging for ZeroNet using Kivy framework
